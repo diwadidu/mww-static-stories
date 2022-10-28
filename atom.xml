@@ -92,18 +92,18 @@
   </entry>
   
   <entry>
-    <title>On the wine trail</title>
-    <link href="https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/fall-winery-festivals/"/>
-    <updated>2022-10-25T22:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/fall-winery-festivals/</id>
-    <content type="html">In November, taste the fruits of the harvest on winery road trips.</content>
-  </entry>
-  
-  <entry>
     <title>Following a wine trail</title>
     <link href="https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/wine-trails-midwest-wineries/"/>
     <updated>2022-10-25T22:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/wine-trails-midwest-wineries/</id>
     <content type="html">On winery tours, sample fruits of the harvest.</content>
+  </entry>
+  
+  <entry>
+    <title>On the wine trail</title>
+    <link href="https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/fall-winery-festivals/"/>
+    <updated>2022-10-25T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/fall-winery-festivals/</id>
+    <content type="html">In November, taste the fruits of the harvest on winery road trips.</content>
   </entry>
 </feed>
